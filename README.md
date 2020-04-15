@@ -1,11 +1,10 @@
-# UCSanDiegoX-ALGS200x
-Algorithmic Design and Techniques
+## Algorithmic Design and Techniques
 
-## About
+### About
 
 This project contains notes and work from the edx class "Algorithmic Design & Techniques" from UC SanDiego on edx.
 
-## Resources
+### Resources
 
 
 MOOC Books:
@@ -24,8 +23,8 @@ MOOC Books:
 
 ## Course Outline
 
-- Week 1: Programming Challenges
-- Week 2: Algorithmic Warm-up
+- Week 1: Programming Challenges (DONE)
+- Week 2: Algorithmic Warm-up (DONE)
 - Week 3: Greedy Algorithms
 - Week 4: Divide-and-Conquer
 - Weeks 5-6: Dynamic Programming
