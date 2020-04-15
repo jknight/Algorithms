@@ -1,2 +1,3 @@
-# UCSanDiegoX-ALGS200x-
+# UCSanDiegoX-ALGS200x
+
 Algorithmic Design and Techniques
