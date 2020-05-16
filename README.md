@@ -6,7 +6,6 @@ This project contains notes and work from the edx class "Algorithmic Design & Te
 
 ### Resources
 
-
 MOOC Books:
 
 - [Learning Algorithms through Programming and Puzzle Solving](https://goo.gl/b29gSJ)
