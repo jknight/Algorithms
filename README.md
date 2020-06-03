@@ -24,7 +24,7 @@ MOOC Books:
 
 - Week 1: Programming Challenges (DONE)
 - Week 2: Algorithmic Warm-up (DONE)
-- Week 3: Greedy Algorithms
+- Week 3: Greedy Algorithms (DONE)
 - Week 4: Divide-and-Conquer
 - Weeks 5-6: Dynamic Programming
 
